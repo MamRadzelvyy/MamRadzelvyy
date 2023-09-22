@@ -1,5 +1,5 @@
 ### Hi there 👋
-![NO OBRÁZEK? 😔](https://media.tenor.com/8OqV_K5EQNYAAAAC/league-of-legends-riot-games.gif)
+![NO OBRÁZEK? 😔]([https://media.tenor.com/8OqV_K5EQNYAAAAC/league-of-legends-riot-games.gif](https://media.tenor.com/vtkAQI_0nQ0AAAAC/jinx-arcane.gif))
 
 
 <!--
