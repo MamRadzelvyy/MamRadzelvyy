@@ -1,5 +1,5 @@
 ### Hi there 👋
-![NO OBRÁZEK? 😔](https://www.google.com/search?q=league+of+legends+gif%C2%A8&tbm=isch&ved=2ahUKEwj-g6aV1b2BAxXHgv0HHWO7AfMQ2-cCegQIABAA&oq=league+of+legends+gif%C2%A8&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjoKCAAQigUQsQMQQzoHCAAQigUQQzoICAAQgAQQsQNQ-wVYvB1gvR1oAHAAeACAAVSIAZcJkgECMjKYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=OD4NZf6HHseF9u8P4_aGmA8&bih=963&biw=1920&rlz=1C1GCEU_csCZ1074CZ1074#imgrc=cY9GhBX1WgJ5_M&imgdii=hzCbroZL7IV3UM)
+![NO OBRÁZEK? 😔](https://media.tenor.com/8OqV_K5EQNYAAAAC/league-of-legends-riot-games.gif)
 
 
 <!--
