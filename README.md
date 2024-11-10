@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ahoj jsem Danik a mám rád želvy 👋
 
 ![AAA](https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif)
 
