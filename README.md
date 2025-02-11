@@ -1,8 +1,8 @@
 ### Ahoj jsem Danik a mám rád želvy 👋
-### Projekty
+#### Projekty
 - [Eshop Urny](https://github.com/MamRadzelvyy/Eshop-na-urny)
 - [Ore clicker](https://github.com/MamRadzelvyy/Ore-Clicker)
-### Pracuji v
+#### Pracuji v
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind&perline=4)](https://skillicons.dev)
 
