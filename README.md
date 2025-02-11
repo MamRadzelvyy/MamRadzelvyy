@@ -1,9 +1,10 @@
 ### Ahoj jsem Danik a mám rád želvy 👋
-## Projekty
--[Eshop Urny]()
--[Ore clicker]()
-
-[![Pracuji v](https://skillicons.dev/icons?i=js,mongodb,html,css,express,react,nodejs,tailwind&perline=8)](https://skillicons.dev)
+### Projekty
+- [Eshop Urny](https://github.com/MamRadzelvyy/Eshop-na-urny)
+- [Ore clicker](https://github.com/MamRadzelvyy/Ore-Clicker)
+### Pracuji v
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind&perline=4)](https://skillicons.dev)
 
 ![AAA](https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif)
 
