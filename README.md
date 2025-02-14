@@ -4,10 +4,17 @@
 - [Ore clicker](https://github.com/MamRadzelvyy/Ore-Clicker)
 #### Pracuji v
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind&perline=4)](https://skillicons.dev)
+ <div align="center">
+  
+ [![Technologie](https://skillicons.dev/icons?i=js,html,css,tailwind,react,express,nodejs,mongodb,mysql,java)](https://skillicons.dev)
 
+</div>
+
+<div align="center">
+  
 ![AAA](https://i.pinimg.com/originals/28/dc/10/28dc10d4c18623b9d1f185a4561eae23.gif)
 
+</div>
 
 <!--
 **MamRadzelvyy/MamRadzelvyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
