@@ -3,6 +3,7 @@
 - [Eshop Urny](https://github.com/MamRadzelvyy/Eshop-na-urny)
 - [Ore clicker](https://github.com/MamRadzelvyy/Ore-Clicker)
 - [Erasmus Projekt](https://github.com/MamRadzelvyy/erasmus-project)
+- [Šejkyho Milkšejky](https://github.com/MamRadzelvyy/shaker)
  ---
   
  <div align="center">
